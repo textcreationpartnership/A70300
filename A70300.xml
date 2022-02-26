@@ -1,0 +1,1008 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narrative of God's gracious dealings with the soul of Shalome Ben Shalomoh of the circumcision after the flesh. As delivered to the Church of Christ assembled at their meeting-house, in Rosemary-Lane, September the 29th, 1699. With some additions made thereunto since; being taken from his mouth by the subscribers to the certificate annexed to the preface. Published for exalting the free grace of God.</title>
+            <author>Humfrey, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70300</idno>
+            <idno type="STC">Wing H3717</idno>
+            <idno type="STC">ESTC R218738</idno>
+            <idno type="EEBO-CITATION">99830309</idno>
+            <idno type="PROQUEST">99830309</idno>
+            <idno type="VID">34759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34759)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2072:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narrative of God's gracious dealings with the soul of Shalome Ben Shalomoh of the circumcision after the flesh. As delivered to the Church of Christ assembled at their meeting-house, in Rosemary-Lane, September the 29th, 1699. With some additions made thereunto since; being taken from his mouth by the subscribers to the certificate annexed to the preface. Published for exalting the free grace of God.</title>
+                  <author>Humfrey, Thomas.</author>
+                  <author>Shalome, Ben Shalomoh. aut</author>
+               </titleStmt>
+               <extent>[2], v, [1], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Marshal, and sold by him, at the Bible in Newgate-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed : T.H. [i.e. Thomas Humfrey].</note>
+                  <note>Caption title on p.1: The narrative of the conversion of Shalome Ben Shalomoh, the Jew, deliver'd unto the Church of Christ, to which Mr. Thomas Humfrey is pastor.</note>
+                  <note>Narrative is in the form of a dialogue between Shalome ben Shalomoh and Thomas Humfrey, with added citations from the Bible.</note>
+                  <note>Text on pp. 18-23 is printed at right angles to the page.</note>
+                  <note>Copy cropped at head.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian converts from Judaism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34759:1"/>
+            <pb facs="tcp:34759:1" rendition="simple:additions"/>
+            <p>A TRUE NARRATIVE OF GOD'S Gracious Dealings WITH THE <hi>SO<g ref="char:V">Ʋ</g>L</hi> of <hi>Shalome Ben Shalomoh,</hi> Of the Circumciſion after the Fleſh. As Delivered to the <hi>Church of Chriſt,</hi> Aſſembled at Their <hi>Meeting-Houſe,</hi> in <hi>Roſemary-Lane, September</hi> the 29th, 1699. With ſome ADDITIONS made thereunto ſince; Being taken from his Mouth by the Subſcribers to the Certificate annexed to the Preface.</p>
+            <p>Publiſhed for Exalting the Free Grace of God.</p>
+            <q>
+               <p>Come and hear all ye that fear God, and I will declare what he hath done for my Soul.</p>
+               <bibl>Pſal. 66.16</bibl>
+            </q>
+            <q>
+               <p>I ſay then, Hath God caſt away his People? God forbid: For 
+I alſo am an Iſraelite of the Seed of Abraham, <hi>&amp;c.</hi>
+               </p>
+               <p>As concerning the Goſpel, they are Enemies for your ſake; 
+but as touching the Election they are beloved for the 
+Father's ſakes.</p>
+               <bibl>
+                  <hi>Rom. 11.1, 28.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Wherefore receive ye one another, as Chriſt alſo received us to the Glory of God.</p>
+               <bibl>
+                  <hi>Rom. 15.7.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Marſhal,</hi> and Sold by hm, at the <hi>Bible</hi> in <hi>Newgate-Street.</hi> 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34759:2"/>
+            <pb n="i" facs="tcp:34759:2"/>
+            <head>To the READER.</head>
+            <p>THE End of Publiſhing the following Narrative, is, not to aſcribe Glory to one particular Party, as if by our own Power or Holineſs we had made this Man, who was ſpiritually dead, to walk; but to obviate ſuch Miſtakes, which a thing ſo novel and un<g ref="char:EOLhyphen"/>common may be obnoxious to; and more eſpecially, to magnifie the Riches of Free Grace, which has glorified Jeſus Chriſt, by the Manifeſtations of his Divine Power and Goodneſs,<note place="margin">1 <hi>Pet.</hi> 2.3.</note> diſplayed to the Soul of this Son of <hi>Abraham:</hi> And therefore, to you who have taſted, that the Lord is gracious, the enſuing Nar<g ref="char:EOLhyphen"/>rative (I preſume) will be acceptable: For tho' it pre<g ref="char:EOLhyphen"/>tends not to the captivating Oratory of our Age, yet it may challenge your ſerious Regard, inaſmuch as Salva<g ref="char:EOLhyphen"/>tion is come to his Houſe, who is, according to the Fleſh, of the rejected Stock of <hi>Iſrael;</hi> whom it hath pleaſed ir<g ref="char:EOLhyphen"/>reſiſtible Grace, <hi>to turn from Darkneſs to Light,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 26.184</note> 
+               <hi>and from the Power of Satan to Himſelf.</hi> Which, I hope, is an encouraging Preſage, of the happy Re-ingraf<g ref="char:EOLhyphen"/>ture of the unbelieving <hi>Jews,</hi> into their own <hi>Olive-Tree:</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 11.24</note> A thing witneſſed to by the Sacred Word of God, and confirmed to us by this unuſual Act: By the one he has declared, what he will do; and by the other, what he can do. And as the Word of Promiſe may encourage us to pray, ſo this Inſtance of Divine Power to hope,<note place="margin">
+                  <hi>Ezek.</hi> 37.5, 9.</note> that God will cauſe <hi>Breath to enter into thoſe dry Bones,</hi> that they may live.</p>
+            <p>But not to enumerate Particulars (which is foreign to our preſent Purpoſe) ſince there is a profeſs'd Expectati<g ref="char:EOLhyphen"/>on of the <hi>Jews</hi> Converſion in theſe Latter Days, among the greateſt part of Chriſtians; I ſhall proceed to obviate
+<pb n="ii" facs="tcp:34759:3"/>ſuch Objections, as may poſſibly be brought againſt the Truth of this <hi>Jew</hi>'s Converſion.</p>
+            <p>
+               <hi>Object.</hi> 1. Is it poſſible, that a Perſon ſo unacquainted with the Chriſtian Religion, and ſo vicious in his Life and Converſation, ſhould ſo ſuddenly arrive to ſuch a ſtrong Perſwaſion of his Intereſt in a crucified Saviour?</p>
+            <p>
+               <hi>Anſw.</hi> In Anſwer hereunto, conſider,</p>
+            <p n="1">1. That God, the moſt Sovereign Agent, is the Sole Worker of Faith in the Hearts of his Elect; wherefore it is called,<note place="margin">
+                  <hi>Col.</hi> 2.12.</note> 
+               <hi>Faith, of the Operation of God:</hi> And in his working thereof, he acts like himſelf, energetically, and inſtantaneouſly. He that commanded <hi>Light to ſhine out of Darkneſs,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 4.6.</note> at once, in the firſt Creation, can in a Moment illuminate a Soul benighted with its own Darkneſs, by giving the Light of the Knowledge of his Glory (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>), in the Perſon of Chriſt. Why ſhould it be thought then a thing incredible, that he who at the laſt Trumpet's Sound, will effect ſuch an amazing Change in the Bodies of the Saints, and that (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>), <hi>in the twinkling of an Eye,</hi> ſhould make one no leſs admirable in the Soul of a poor deſpiſed <hi>Jew,</hi> the Converſion of whoſe Bre<g ref="char:EOLhyphen"/>thren in the Fleſh,<note place="margin">
+                  <hi>Rom.</hi> 11.</note> is repreſented by <hi>Life from the Dead?</hi> There is doubtleſs a determinate Inſtant, wherein the Soul of an Elect Sinner is to be delivered from the Power of Darkneſs, and tranſlated into the Kingdom of God's dear Son;<note place="margin">
+                  <hi>Ezek.</hi> 16.8.</note> which is called <hi>the Time of Love,</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 110.3.</note> 
+               <hi>the Day of Power;</hi> until which the Soul is polluted in its own Blood,<note place="margin">
+                  <hi>Heb</hi> 11.6.</note> and what<g ref="char:EOLhyphen"/>ſoever he doth is diſpleaſing to God, becauſe done in Unbelief, and having undoubtedly the Nature of Sin: To which agrees ſeveral Paſſages in the Homily of <hi>Good Works,</hi> as follows: <hi>Without Faith, all that is done of us,</hi>
+               <note place="margin">Art. <hi>13.</hi> of the Church of <hi>Engl.</hi>
+               </note> 
+               <hi>is but dead before God, tho' the Work ſeem never ſo gay and glorious before Man: Ev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n as a Picture graven, or painted, is but a dead Repreſentation
+<pb n="iii" facs="tcp:34759:3"/>of the Thing it ſelf, that is without Life, or any manner of Moving; ſo be the Works of all unfaithful Perſons before God,</hi>
+               <note place="margin">Page <hi>46, 47.</hi> Edit. in Octavo, <hi>1687.</hi>
+               </note> 
+               <hi>they be as the Courſe of a Horſe that runneth out of the Way; which takes Labour, but to no purpoſe.</hi> Thus far the Homily. Hereby you may ſee, how the Senti<g ref="char:EOLhyphen"/>ments in that Age, concerning Words before Faith, dif<g ref="char:EOLhyphen"/>fered from thoſe which now obtain amongſt us. What <hi>they</hi> accounted ſinful and dead, is now eſteemed Righte<g ref="char:EOLhyphen"/>ouſneſs and Life: A ſuperficial Reformation of Manners, paſſeth for Converſion; and a Moral Heathen ſhall be careſſed for a Serious Chriſtian: Whilſt the poor Publi<g ref="char:EOLhyphen"/>can, who diſcovers the Depravity of his Nature, by the Enormity of his Actions, is deſtined to an unpleaſant Pilgrimage, before it be allowed him to lay hold of a Goſpel-Promiſe; and to ſerve the <hi>Egyptian</hi> Task-maſters, ſome Years, (it may be) before permitted to enquire after the Freedom of the Goſpel: And if the God of all Grace, heals a Conſcience wounded for Sin, with greater Expe<g ref="char:EOLhyphen"/>dition than is by ſome allowed, who are forwarder to lay Burthens on others Shoulders, than to touch them with one of their Fingers, the Cure immediately muſt be called into queſtion, becauſe the preſcribed Time was not obſerved in perfecting it; and whilſt God is owned to be a Free Agent, they rob him of his Prerogative, in confi<g ref="char:EOLhyphen"/>ning him to Humane Methods; and the Perſon on whom ſuch an inſtantaneous Change is wrought, muſt expect, from them, no better Treatment, than the Blind Man, in the Goſpel; did from the blinder <hi>Jews,</hi> John 9.</p>
+            <p n="2">2. Cenſider ſome of thoſe Inſtances (recorded in Scri<g ref="char:EOLhyphen"/>pture for our Learning) wherein God has exemplified the Power of his Reigning Grace, by making ſtout-hearted Rebels (who are far from Righteouſneſs) ſub<g ref="char:EOLhyphen"/>mit to his Righteouſneſs. <hi>Zacheus,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 46.12.</note> a notori<g ref="char:EOLhyphen"/>ous Sinner,<note place="margin">
+                  <hi>Rom.</hi> 10.3.</note> immediately becomes a joyful Re<g ref="char:EOLhyphen"/>ceiver of Jeſus Chriſt.<note place="margin">
+                  <hi>Luke</hi> 19.</note> He that was Prince of
+<pb n="iv" facs="tcp:34759:4"/>Publicans, is ſuddenly pronounced a Son of <hi>Abraham;</hi> as <hi>Stella,</hi>
+               <note place="margin">Tom. 2. <hi>p.</hi> 221.</note> a Papiſt, obſerves on the place: <hi>Qui heri peccator fuit, jam hodie poſſit divina benigni<g ref="char:EOLhyphen"/>tate juſtus effici:</hi> He who was Yeſterday a Sin<g ref="char:EOLhyphen"/>ner, by Divine Bounty, is to Day made Righteous.</p>
+            <p>The Jaylor, whom we find Inhumane in his Treatment of <hi>Paul</hi> and <hi>Silas,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 16.24</note> not long after waſhing their Wounds, as a genuine Effect of his Belie<g ref="char:EOLhyphen"/>ving the Word they ſpake to him; he who about Mid<g ref="char:EOLhyphen"/>night deſigned to be his own Executioner before Day<g ref="char:EOLhyphen"/>break was a joyful Believer: And how many of the obſtinate <hi>Jews,</hi> who had embrewed their wicked hands in the Blood of Chriſt, <hi>fled for refuge to the hope ſet before them in the Goſpel,</hi> and in one days time became Church-Members, whoſe continuance in the Apoſtle's Doctrine was as ſtedfaſt as their Converſion was ſudden, <hi>Acts</hi> 2.23, 41.</p>
+            <p>Objection 2. <hi>It may be ſaid theſe were extraordinary In<g ref="char:EOLhyphen"/>ſtances, and therefore nothing to the Purpoſe in hand.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> I grant that the Work of Regeneration is not ordinary, but ſpecial, if compar'd with the more uſual Diſpenſations of Divine Bounty in his common Pro<g ref="char:EOLhyphen"/>vidence, as to the things of this life; and tho' there are not many Converts in this day who parallel the fore<g ref="char:EOLhyphen"/>going Inſtances; yet they who have the Spirit witneſſing with theirs that they are the Sons of God, cannot but ſet to their Seal; from their own Experience, that <hi>the Lord's Arm is not ſhortned,</hi>
+               <note place="margin">
+                  <hi>Doctrina adverſario<g ref="char:EOLhyphen"/>rum qui legem cum Chriſto decebant, ut ju<g ref="char:EOLhyphen"/>ſtificationis cauſum con<g ref="char:EOLhyphen"/>currere. i. e.</hi> The Do<g ref="char:EOLhyphen"/>ctrine of our Adver<g ref="char:EOLhyphen"/>ſaries, who hold, That the Law is a Co Ad<g ref="char:EOLhyphen"/>jutor with Chriſt, in the Juſtification of a Sinner. <hi>Beza</hi> in La.</note> tho' the Doctrine of his Grace is ſo clouded by ſome Self-Juſticiaries. The Apoſtle affirms, That <hi>the Spirit cannot be recei<g ref="char:EOLhyphen"/>ved by the Works of the Law, but by the Hearing of Faith.</hi> And how far the generality of Preachers deviate from this Doctrine, is too conſpicuous; who not allowing the Grace of God to be ſo powerful and effectual now,
+<pb n="v" facs="tcp:34759:4"/>as when the Goſpel was firſt promulgated, ſend us for Life to that Law which hath already condemned us.</p>
+            <p>
+               <hi>Object.</hi> 3. Why did not this Convert give ſome Rea<g ref="char:EOLhyphen"/>ſons why he turned from <hi>Judaiſm?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He gave the moſt perſwaſive Argument that could be, <hi>viz.</hi> His believing Jeſus Chriſt to be the true Meſ<g ref="char:EOLhyphen"/>ſiah, upon the naked Teſtimony, and Record of God, con<g ref="char:EOLhyphen"/>cerning him, expreſſed in ſeveral Texts of Scripture: Which will be a ſufficient Reaſon to thoſe poor blind <hi>Jews,</hi> who are ſtill walking after the Imagination of their own Hearts, to relinquiſh their Errors, when God in his infinite Wiſdom ſhall think fit to call them by his Grace.</p>
+            <p n="2">2. Conſider, the Things he ſpake, were delivered to a Church of Chriſt (not to an Auditory at <hi>Lions</hi>), to ſatiſ<g ref="char:EOLhyphen"/>fie them of a Work of Grace in his Soul: And therefore, tho' his Speech was rude, yet it is not doubted, from the Certainty of his Converſion, but he had thoſe Divine Impulſes on his Soul, whereby he could not but deſert Judaiſm, and lay hold of the true Meſſiah for Life and Salvation.</p>
+            <p>It only remains <hi>(Reader)</hi> to inform you, That what <hi>Shalome Ben Shalomoh</hi> ſpake publickly, has not paſſed un<g ref="char:EOLhyphen"/>der any material Alteration ſince; but as far as it conſiſts with Plainneſs and Perſpicuity, his own Expreſſions are retained, tho' through his Deficiency in our <hi>Engliſh</hi> Dia<g ref="char:EOLhyphen"/>lect, it was judged proper to alter ſome of his Words; yet retaining his Sence: Which, with ſome Additions, forgotten by him when he delivered himſelf to the Church, and others whereinto God hath ſince inſtructed him, are now offered to your ſerious Conſideration (the Glory of God, and your Good, having been primarily conſulted herein), by</p>
+            <closer>
+               <signed>Your Servant, in our Lord Jeſus Christ, <hi>T. H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="authentication_by_witnesses">
+            <pb facs="tcp:34759:5"/>
+            <p>WE whoſe Names are hereto annex<g ref="char:EOLhyphen"/>ed, Paſtor, and 
+Members of the Church of Chriſt, into which Mr. 
+<hi>Sha<g ref="char:EOLhyphen"/>lome</hi> was admitted, do hereby certifie, 
+That the following Account is what he deliver<g ref="char:EOLhyphen"/>ed 
+<hi>Viva Voce,</hi> to the Church; and that ſuch 
+Additions as are made, were taken from his own Mouth,</p>
+            <closer>
+               <signed>by
+<list>
+                     <item>
+                        <hi>Thomas Humfrey.</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Shepard.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Stratton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="conversion_testimony">
+            <pb n="1" facs="tcp:34759:5"/>
+            <head>THE NARRATIVE of the CONVERSION OF <hi>Shalome Ben Shalomoh,</hi> the JEW, DELIVER'D Unto the CHURCH of CHRIST, to which Mr. <hi>Thomas Humfrey</hi> is Paſtor.</head>
+            <sp>
+               <speaker>Mr. <hi>Humfrey.</hi>
+               </speaker>
+               <p>BRethren, I ſuppoſe you well re<g ref="char:EOLhyphen"/>member that Mr. <hi>Shalome</hi> was propoſed to this Church in or<g ref="char:EOLhyphen"/>der to Communion therewith; he is now come to give an Account of the Dealings of God with his Soul: I hope you will attend, as thoſe who are ſen<g ref="char:EOLhyphen"/>ſible of the Grace of God towards you.</p>
+               <p>Sir, If you pleaſe to ſpeak.</p>
+            </sp>
+            <sp>
+               <speaker>Shalome,</speaker>
+               <p>I hope (Men and Brethren) that what I am about to ſay, may prove as effectual as the Ser<g ref="char:EOLhyphen"/>mon which <hi>Peter</hi> preached to the Men of <hi>Judea</hi> and <hi>Jeruſalem,</hi> at the hearing of which there was an Univerſal crying out, <hi>Men and Brethren, What ſhall we do?</hi> Acts 2.37. If that be your Enquiry, take <hi>Peter</hi>'s Anſwer, <hi>You must believe and be baptized, that the Holy Ghost may come upon you,</hi> v. 38. I <hi>Shalome Ben Shalomoh,</hi> was born of Jewiſh Parents, my Fa<g ref="char:EOLhyphen"/>ther's Name <hi>Shalomoh,</hi> my Mother's <hi>Leah,</hi> was cir<g ref="char:EOLhyphen"/>cumciſed the eighth Day in <hi>Puſnonny,</hi> in <hi>Poland,</hi>
+                  <pb n="2" facs="tcp:34759:6"/>where I lived till I was twelve Years of Age, at which time it pleaſed God (who works all things for the good of his Elect) that all our Family (my ſelf alone excepted) died in a great Plague, which had univerſally ſpread its ſelf through that Land: Being left thus deſtitute, I had an Inclination to travel, and in my Travels, a Boy, who was in the Duke of <hi>Brandenburg</hi>'s Army, came and ſaid to me, Why do you not turn a Chriſtian? A Chriſtian, ſaid I, why think you I will worſhip Images? (for ſuch was my Ignorance that I thought all Chriſtians were Papiſts, there being none but Papiſts, who were called Chriſtians, and Jews, in the Country where I was born:) do you (ſaid I) believe the Bible, the Old Te<g ref="char:EOLhyphen"/>ſtament, the five Books of <hi>Moſes,</hi> the Pſalms of <hi>David,</hi> and the Song of <hi>Solomon?</hi> Yes, ſaid he, we have all theſe. Do you, ſaid I, worſhip Images? There are, ſaid he, two ſorts of Chriſtians, Proteſtants, and Papiſts; we believe no other Saviour but Jeſus Chriſt alone. Well, ſaid I, carry me to a Miniſter, who accor<g ref="char:EOLhyphen"/>dingly brought me to the Duke of <hi>Brandenburg</hi>'s Miniſter, who opend to me ſomething concerning Jeſus Chriſt, from the five Books of <hi>Moſes,</hi> As, 1ſt, that in <hi>Gen.</hi> 3.15. <hi>And I will put enmity between thee, and the Woman, and between thy Seed, and her Seed; it ſhall bruiſe thy head, and thou ſhalt bruiſe his heel;</hi> which appeared to me, when God opened my Eyes, (for I could not ſee it before) a lively Repreſen<g ref="char:EOLhyphen"/>tation of the Death and Reſurrection of Jeſus Chriſt; as alſo from that in <hi>Numb.</hi> 21.9. when God com<g ref="char:EOLhyphen"/>manded <hi>Moſes</hi> to lift up a brazen Serpent on a Pole, that every bitten Iſraelite looking thereto might be healed; did I learn that Jeſus Chriſt was the true brazen Serpent, by believing on whom alone it was that I could obtain Salvation and eternal Life: He alſo endeavoured to ſhew me, how that many of the
+<pb n="3" facs="tcp:34759:6"/>Pſalms were prophetical of Jeſus Chriſt, particularly <hi>Pſalm</hi> 2.7. <hi>Thou art my Son, this Day have I begotteu thee.</hi> And Pſal. 110.1. <hi>The Lord ſaid unto my Lord, ſit thou at my right Hand,</hi> &amp;c. And <hi>Pſal.</hi> 22.16, 17, 18. <hi>The aſſembly of the wicked have encloſed me, they pierced my hands and my feet, I may tell all my bones, they look and ſtare upon me, they part my garments among them, and cast lots upon my veſture.</hi> Which did to me clear up ſomething of what Jeſus Chriſt underwent as he ſtood Surety for his Elect, from <hi>Iſa.</hi> 9.6. <hi>For unto us a Child is born, unto us a Son is given, and the government ſhall be upon his Shoulders, and his Name ſhall be called wonderful, Counſellor, the mighty God, Everlaſting Father, the Prince of Peace.</hi> I learn'd ſomething of the Humane Nature of Jeſus Chriſt; he alſo endeavour<g ref="char:EOLhyphen"/>ed from <hi>Gen.</hi> 1.2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>And the Spirit of GOD moved upon the Face of the the Waters;</hi> to evince to me the being of the Holy Ghoſt; the Notion of a Trinity I took in form <hi>Gen.</hi> 1.26. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Let us make Man.</hi> And from <hi>Gen.</hi> 11. where God coming down to ſee the City and the Tower which the Children of Men had built, ſaith in ver. 7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Go to, let us go down and confound their Languages.</hi> From <hi>Gen.</hi> 49.10. <hi>The Scepter ſhall not depart from Judah, nor a Law-giver from between his feet till Shiloh come,</hi> &amp;c. I ſaw that Jeſus Chriſt was the true <hi>Meſſiah,</hi> in which I was ſatisfied, and tho' as yet I had nothing more then the Notion of Things, yet, as the Eunnch ſaid to <hi>Philip,</hi> Acts 8.36. ſo ſaid I, <hi>What hinders me to be baptized?</hi> and baptized I was in <hi>Berlijn</hi> in <hi>Brandenburg,</hi> the Duke ſtood my God<g ref="char:EOLhyphen"/>father: I became not a Chriſtian for Silver, nor Gold, but was conſtrained thereto by the mighty Power of Jeſus Chriſt; I was beholden to none, but to the Almighty Power of God. After this I was
+<pb n="4" facs="tcp:34759:7"/>recommended to a Miniſter in the City <hi>Ryneburg</hi> on the <hi>Rhyne,</hi> by whom I was further notionally con<g ref="char:EOLhyphen"/>firmed in the Chriſtian Faith: and from that time had a mind to travel into <hi>England;</hi> where, under the Denomination of a Chriſtian, I lived a great while Revelling in all manner of Wickedneſs, committing Iniquity with Greedineſs; as I grew older I thought it was high time to reform, knowing I muſt give an Account of Deeds done in the Body; I then re<g ref="char:EOLhyphen"/>ſolved to lead a new Life, and venture on the Mercy of Chriſt, which, tho' I prayed for Night and Day yet could not find; I made many Reſolutions to live better, and broke them as faſt, knowing nothing of the Perſon of Jeſus Chriſt; at length I was by continued Prayer very ſolicitous for Repentance; yet thought I, ſhould I repent, it will not avail me unleſs I could forſake my Sins; to Prayer I went, and in a Agony I was, I flung up mine Eyes and Heart to Heaven, Lord Jeſus Chriſt, ſaid I, tho' thou wilt not ſhew Mercy to me, tho' I muſt periſh, yet will I truſt thee ſtill; Terrors of Conſcience ſtill purſued me, ſo that I often thought through want of Eaſe in my Conſcience, tho' I ſhould truſt in Jeſus Chriſt, yet I ſhould be Damned; I thought many times, as I paſſed over the Fields, that I ſaw the Lord Jeſus Chriſt coming in the Clouds; upon which, when I began to conſider my own Condition, I paſſed Judgment on my ſelf as one that deſerved Hell and Damnation; I found (as I thought) the Devil binding me in Chains, which made me cry out, as <hi>Rom.</hi> 7.23, 24. <hi>I am carried into Captivity, to the Law of Sin which is in my Members; O wretched Man that I am, who ſhall deliver me from the Body of this Death?</hi> The Terrors of Hell took hold of me, I thought I ſaw the Pit of Hell ready to receive me. How to get Peace of Conſcience I knew not; no<g ref="char:EOLhyphen"/>thing
+<pb n="5" facs="tcp:34759:7"/>but Hell and Damnation ſounded in my Ears; I thought I muſt be damned, if I turned not to Je<g ref="char:EOLhyphen"/>ſus Chriſt: In theſe Agonies of Spirit I read once and again the Book of one <hi>Baxter,</hi> which I thought would have been a great Means of my Salvation. But, alas! that drove me more into Hell, I thought I ſhould by it have ſunk into utter Deſpair; I could find nothing in it for my Conſolation; what Courſe to take I knew not, I deſired the Lord Jeſus Chriſt to do a Miracle upon me, in breathing the Breath of Life into my Soul, who was dead in Sin, as he formerly raiſed thoſe who were naturally dead from their Graves; I pleaded his Power as he in <hi>Matth.</hi> 8.2. <hi>Lord if thou wilt, thou canst make me clean;</hi> and clean<g ref="char:EOLhyphen"/>ſing I ſtood in need of, for I ſaw my Sin ſo black, that I abhorred my ſelf in duſt; I thought I was not wor<g ref="char:EOLhyphen"/>thy to roul my ſelf on Jeſus Chriſt; yet to venture I reſolved, I knew I could but be rejected, as 2 <hi>Kings</hi> 7.4. <hi>If we ſay we will enter into the City, then the Famine is in the City, and we ſhall dye there; and if we ſit ſtill here, we ſhall dye alſo: Now therefore come, and let us fall into the Host of the Syrians, if they ſave us alive, we ſhall live, and if they kill us we ſhall but dye.</hi> I al<g ref="char:EOLhyphen"/>ways concluded Prayer after this manner, Lord, tho' thou wilt not hear me, yet will I truſt to thee; I prayed (as one ſenſible of my own Inſufficiency) that God would by his Spirit teach me to pray; there was yet a ſecret Hope in me that God would call me; however, I reſolved to lean on the Lord Jeſus, pray<g ref="char:EOLhyphen"/>ing that he would give me the Spirit of him that rai<g ref="char:EOLhyphen"/>ſed Jeſus Chriſt from the Dead, to raiſe me from the Death of Sin; ſuch was my Affection to Jeſus Chriſt, that I often wiſhed my ſelf in a Cave ſo that I might enjoy him, tho' I endured the greateſt Hardſhip. In theſe Conflicts of Spirit the Devil ſet in upon me, told me, It was impoſſible for me to be ſaved; For,
+<pb n="6" facs="tcp:34759:8"/>ſaid he, your Parents have wiſhed a Curſe upon you; and inſinuated as if I was by that Curſe bound over to eternal Damnation: How, ſaid he, can you be<g ref="char:EOLhyphen"/>lieve that the Son of God ſhould be born of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary?</hi> or that he that was born of her, ſhould be the Saviour of your Soul? Know you not what a <hi>Fellow</hi> (which word went through my Soul, God knows) he was? It is impoſſible, ſaid he, that he ſhould ever ſave you. To whom I anſwered and ſaid, Satan, get thee behind me; God (ſaid I) and the Lord Jeſus Chriſt are all One; God at firſt cre<g ref="char:EOLhyphen"/>ated the World out of Nothing, created Man out of the Duſt, and of a Rib taken out of <hi>Adam</hi> made he a Woman; yea, Chriſt himſelf was overſhadowed by the Holy Ghoſt in the Womb of the Virgin <hi>Mary:</hi> And now, O Devil! what is too hard for ſuch an Al<g ref="char:EOLhyphen"/>mighty Power which has done all this? Thou haſt no Power over him, nor canſt thou Diſannul what he hath done. After this, my Inclination ſtood bent to frequent the Aſſembly of God's People; tho' whe<g ref="char:EOLhyphen"/>ther to go I was at a loſt, I heard there was many Churches, One cry'd, Here is Chriſt; another cry'd, Here is Chriſt: I knew there was but one Chriſt, however, I thought I would aſſemble my ſelf with a ſober People; at length I came among the Quakers, but, alas! there I found nothing to my Satisfaction, ſo that I was at a Loſs again, and ſo continued for many Years, going no where, but lived without Chriſt, an Alien from the Commonwealth of <hi>Iſrael,</hi> a Stranger to the Covenants of Promiſe, without God in the World, at laſt my Heart began to burn within me, whether thought I ſhall I go: I pray'd that the Lord, if he had any Love to me, would ſhew himſelf to me in Jeſus Chriſt, (for I always did even when I lived in the Fleſh, (as many no<g ref="char:EOLhyphen"/>minal Chriſtians do) look for God in the Face of
+<pb n="7" facs="tcp:34759:8"/>Jeſus Chriſt,) and point me out a way; at length I came to <hi>White-chappel,</hi> where my Apprehenſions con<g ref="char:EOLhyphen"/>cerning my State were dreadful; I went one Night to bed, and there thought I heard a Voice diſtinctly, ſaying, <hi>Ariſe, ariſe; if you look not about you, and re<g ref="char:EOLhyphen"/>pent not, you must certainly be damned.</hi> This was a ſad Sermon preached to me, which from a ſlaviſh Fear and Dread drove me to worſhip God, not from a Sence of his Love, but, as I ſaid, from a fearful looking for of Judgment and fiery Indiguation; my very Heart trembled within me; Lord! thought I, it is high time to repent; what ſhall I do? Meet<g ref="char:EOLhyphen"/>ing a young Man, I told him my ſad Condition; who told me, Unleſs I was born again of Water and of the Spirit, I could not enter into the King<g ref="char:EOLhyphen"/>dom of God; which new Birth was wholly myſteri<g ref="char:EOLhyphen"/>ous to me: What ſhall I do then, ſaid I? I fell to weeping; I pray, ſaid I, help me to a Miniſter, a good Goſpel-Miniſter, (I prayed many times that God would direct me to a right Church (tho' with never ſo much Affliction, the Head whereof is Chriſt. I have often ſeen, as I thought, Jeſus Chriſt perfect<g ref="char:EOLhyphen"/>ly at the right Hand of God, who has promis'd to pour out his Spirit on all Fleſh, and certainly it can<g ref="char:EOLhyphen"/>not be far off; I am ſure if I were to dye ſhortly, it will not be long after my time) who brought me to this Miniſter, to whom I declared my Mind, who went Evangetically to work with me, he went far beyond <hi>Baxter, Baxter</hi> drove me back; but this Gen<g ref="char:EOLhyphen"/>tleman told me there was free Grace for all that came to Jeſus Chriſt: This proved an happy Day to my Soul, he told me the Lord accepts Jew and Gentile, as in <hi>Gal.</hi> 3.28. <hi>There is neither Jew, nor Greek, there is neither Bond nor Free, there is neither Male nor Female, for ye are all one in Jeſus Christ;</hi> af<g ref="char:EOLhyphen"/>ter ſome Diſcourſe with Mr. <hi>Humfry,</hi> who made
+<pb n="8" facs="tcp:34759:9"/>ſome Diſcovery to me of God's Way of Salvation by free Grace, of the Way of the Work of the Spirit of God, on the Spirit of a Man, in raiſing him up from the Death of Sin, I read in a Book in which I found the Citation of that Scripture in <hi>John</hi> 17.26. <hi>Fa<g ref="char:EOLhyphen"/>ther, I have declared unto them thy Name, and will de<g ref="char:EOLhyphen"/>clare it, that the Love wherewith thou hast loved me may be in them, and I in them.</hi>
+               </p>
+               <p>And, thought I, now there is an open Door to come to God through Jeſus Chriſt; it came on my Soul with ſuch Power, that it appear'd to me as if a Door had been ſet open for any to enter in who will, how abominably vile and filthy ſoever they be. I thought I ſaw Jeſus Chriſt, yea, the very God<g ref="char:EOLhyphen"/>head ſhining round about me through the Manhood of Jeſus, for in him dwells the Fulneſs of the God<g ref="char:EOLhyphen"/>head bodily, 2 <hi>Col.</hi> 9. And now I am perſwaded whether I direct my Prayer to God the firſt Perſon in the Trinity, or to Jeſus Chriſt the ſecond, it is the ſame, they being the ſame in Eſſence, equal in Power and Glory. The Quakers indeed will ſuffer no Man to Pray, but as the Spirit moves them, pre<g ref="char:EOLhyphen"/>tending to be guided by a Light within, which is no other than the Devil transforming himſelf into an Angel of Light; and indeed it proved but a dark Guide to my Soul: But as I was reading the Book a<g ref="char:EOLhyphen"/>bove-named, it pleaſed God to dart in a Beam of Divine Love in Jeſus Chriſt on my Soul, tho' for about an hour and a half, my Bed ſhook under me, I quivered and trembled, and thought my very Heart was broken within me; Lord thought I, what ſhall I do to be ſaved? But it was ſoon cleared up to me by the Spirit of the Lord, that I ſhould be ſaved by Jeſus Chriſt and by him alone; and I am ſure there is Salvation in no other than in Jeſus Chriſt; no, there is not. And now I would give my Body to be
+<pb n="9" facs="tcp:34759:9"/>burnt, yea, had I a thouſand Lives, I would lay them all down, rather then be an unbelieving Jew; <hi>For,</hi> ſaith Chriſt, <hi>unleſs you believe that I am he,</hi> i. e. <hi>the Meſſiah, you ſhall die in your Sins, and whither I go you cannot come,</hi> John 8.21, 24. This is a miſerable Sentence to all Unbelievers. I often wondred when I heard Miniſters pray for unbelieving Gentiles, ſurely thought I the Gentiles all believe in Jeſus Chriſt: But, alas! Believing is quite another thing than I took it to be, a thing of far greater Difficulty than moſt are aware of; He that comes to God muſt believe that he is every way ſuch as the Scrip<g ref="char:EOLhyphen"/>ture declares him to be, <hi>Heb.</hi> 11.6. he muſt believe that all his Attributes are highly exalted, and infi<g ref="char:EOLhyphen"/>nitely advanced in our Salvation, that the Law is much more highly magnified and made honourable, <hi>Iſa.</hi> 42.21. by the Obedience of Jeſus Chriſt God and Man, than it could poſſibly be by the perfect Obedience of Sinleſs <hi>Adam;</hi> he muſt believe that what Chriſt has done and ſuffered for us as our Sure<g ref="char:EOLhyphen"/>ty in our room and ſtead, is the only Righteouſneſs whereby we are juſtified before God and accepted with him; and that this very Righteouſneſs becomes ours, pleadable by us by Vertue of God's Divine Act of Imputation, Jeſus Chriſt is all and in all, <hi>Col.</hi> 3.11. But, alas, by how few are theſe Goſpel-myſteries really and truly believed? Here you ſee one in whom the Covenant of <hi>Abraham</hi> is fulfilled, as it is in all thoſe who believe in Jeſus Chriſt; But if you do not believe you muſt die in your Sins; I am afraid that my Forefathers (tho' I muſt Judge as Charitably of them as I have warrant for) yet I fear leſt many of them are gone down to the Pit of Eternal Deſtruction; and yet I am, <hi>a Brand plucked out of the Fire,</hi> Zec. 3.2. Now if God ſaved not his own Covenant-Children, his own Spouſe, thoſe who
+<pb n="10" facs="tcp:34759:10"/>were naturally in the Root, what will become of thoſe who are grafted in, and yet believe not that Jeſus is the Chriſt? 1 <hi>John</hi> 2 22. but I know, and am perſwaded, <hi>That Jeſus Christ loved me, and gave himſelf for me,</hi> Gal. 2.20. which is the main Point, and that by his Death and Reſurrection my Soul is ſaved.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Brethren, you have heard what an ac<g ref="char:EOLhyphen"/>count Mr. <hi>Shalome</hi> has given in; If you have any Queſtion to ask on any thing that he has ſaid, you have your Liberty.</p>
+            </sp>
+            <sp>
+               <speaker>Shalome.]</speaker>
+               <p>Brethren, Come, what will come, I am willing to wait with Patience, flinging my ſelf wholly on Jeſus Chriſt, truſting in him, reſolving to die at his Feet, in the Strength of Chriſt I ſpeak it.</p>
+            </sp>
+            <p>Here it was deſired by a Member in the Name of the Church, that Mr. <hi>Humfrey</hi> would propound ſuch Queſtions to him, as by his Anſwers to which, his Inſight into, and Experience of the glorious Myſte<g ref="char:EOLhyphen"/>ries of the Goſpel might farther appear.</p>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>What do you find in your Soul upon believing in Jeſus Chriſt?</p>
+            </sp>
+            <sp>
+               <speaker>Shalome.]</speaker>
+               <p>Comfort, Joy, and Peace, as if I ſaw the Heavens themſelves opening ready to receive me; but ſometimes I feel a dark Night.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>What Courſe do you take when you find the Guilt of Sin flying in your Face?</p>
+            </sp>
+            <sp>
+               <speaker>Shalome,]</speaker>
+               <p>I go to Jeſus Chriſt, I go to Mount <hi>Calvary,</hi> there he gave Satisfaction for my Sins, and is now aſcended, and ſits at the Right Hand of God, and makes (how call you it in Engliſh? It was anſwered, Interceſſion; Aye,) Interceſſion, <hi>Heb.</hi> 7.25. <hi>He was the Lamb of God ſlain from the Foundation of the World,</hi> Rev. 13.8. and I verily believe that God elected me in Chriſt before ever I was born; yea, before the Foundation of the World was laid,
+<pb n="11" facs="tcp:34759:10"/>
+                  <hi>Epheſ.</hi> 1.4. Or elſe I ſhould never have come to him, had he not loved me with an everlaſting Love, he would never have drawn me with loving Kindneſs; <hi>Jer.</hi> 31.3. and now might I be a King, a King of the Jews I value it not, I had rather be a Beggar, and dye in a Dungeon, then be an unbelieving King.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Well, but what ſay you to the Devil, when he tells you, your Sins are too great, or too many to be pardoned?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>Say to him! I tell him Jeſus Chriſt was the great Sacrifice, who upon the Croſs gave full Satiſ<g ref="char:EOLhyphen"/>faction for all my Sins be they never ſo many, or never ſo great; He obeyed and ſuffer'd for me; and beſides this, Muſt I believe the Devil?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>And what courſe do you take when you are down in your Spirit?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>I have Hope in the Lord, and ſtay my ſelf on God ſtill; when in my own Conſcience I was un<g ref="char:EOLhyphen"/>der the greateſt Sence of Condemnation, when the Law, Conſcience, Sin and the Devil all condemned me, my Cry was as now it is, <hi>I trust in Jeſus Christ;</hi> when I had no Strength, and knew not where to go, ſtill I reſolved to truſt in Jeſus Chriſt, with whom there is free Grace, and to whom there is an open Door; and I could chearfully undergo the Deſtru<g ref="char:EOLhyphen"/>ction of this Body, might it be in the declaring the Name of Jeſus Chriſt to my Brethren, in diſcover<g ref="char:EOLhyphen"/>ing ſomething to them of the Riches of the free Grace of God in Jeſus Chriſt, which has plucked me as a Brand out of the Fire, that it might redound to the Praiſe, and the Honour of Jeſus.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>And what is it that moves you to pray?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>The Spirit of God ſetting home on my Soul the Sence of the Pardon of my Sin, what is it that keeps me in the Ways of Jeſus Chriſt (of which I was ignorant till God by his Providence made you an In<g ref="char:EOLhyphen"/>ſtrument
+<pb n="12" facs="tcp:34759:11"/>in directing me thereto) but the Spirit? And now I ſee it is a Way ſo plain, that wayfaring Men, tho' Fools, ſhall not Err therein, <hi>Iſaiah</hi> 35.8. I am, ſince God has called me out of Darkneſs into his marvellous Light, made to admire the infinite Wiſdom of God in taking Fleſh upon him, a Myſte<g ref="char:EOLhyphen"/>ry ſo ſtrange, ſo odious to the Jews, that they could kill him who ſhould affirm it.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Did you not find your Soul drawn by hearing the Goſpel?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>Yes, by that it was that the Love of God wonderfully appeared to my Soul; By that I was made to ſee my ſelf an adopted Child of God, an Heir of Glory; ſo that, when under a Cloud, I could then cry, Thou art my Father, I am thy Child, leave me not therefore utterly, take not thine Holy Spirit from me, but act as a Father towards me; If thy Spirit leaves me, I am like a Child whoſe Lead<g ref="char:EOLhyphen"/>ing-ſtrings if you let go down it falls: We have continual daily need to feed on Jeſus Chriſt; the Manna we had Yeſterday will not ſerve us to Day. Gentlemen, Do not look upon me as a righteous Man in my ſelf, for there I am a Sinner, and altogether unclean, <hi>Iſaiah</hi> 1.6. But yet in Jeſus Chriſt I am without Spot, Sin, or Stain, and blameleſs before the Throne, <hi>Cant.</hi> 4.7. By Grace I am what I am, 1 <hi>Cor.</hi> 15.10. In the imputed Righteouſneſs of Jeſus Chriſt, <hi>Gen.</hi> 3.21.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Then you do not think to be ſaved by your own Righteouſneſs?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>No, it is all as filthy Rags, I might better have continued a Jew, then ſeek Salvation by my own Righteouſneſs; they who have received Grace, can<g ref="char:EOLhyphen"/>not do otherwiſe then praiſe, and glorifie the Lord; but when we have done all we can, it is but filthy Rags, Droſs and Dung; It is Jeſus Chriſt alone that
+<pb n="13" facs="tcp:34759:11"/>ſaves me when all is done; Grace laid the Founda<g ref="char:EOLhyphen"/>tion, and when the Top-ſtone is laid, it will be with ſhouting forth, Grace, Grace, <hi>Zach.</hi> 4.7.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>And what alteration did you find upon diſcourſing of the Goſpel? You believed in a gene<g ref="char:EOLhyphen"/>ral Way, you ſaid, that the Meſſiah was come.</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>I did ſo, and had but a common Work of the Spirit; I deſired to be let further into the My<g ref="char:EOLhyphen"/>ſteries of the Goſpel, that I might be found One of thoſe Worſhippers, who worſhip the Father in Spi<g ref="char:EOLhyphen"/>rit and in Truth; that is, the true Worſhip, not at Mount <hi>Samaria,</hi> nor yet at <hi>Jeruſalem.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>I well remember when you firſt came to me, you was much troubled with the Burthen of Sin.</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>Aye, There appeared the Mercy of God, now you put me in mind: I was always caſt down, my Heart was broke, I was juſt as a broken Reed; I could not tell what to do; Oh! Sin did load me, I ſaw my ſelf even in the Pit of Hell, I thought I was not worthy to come to Jeſus Chriſt; but ſuch was his Grace, that he was pleaſed to lay hold of me; and ſince I am come to him, I have Peace in Conſci<g ref="char:EOLhyphen"/>ence, and Joy in the Holy Ghoſt; Glory be to his Name for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Well, what, do you believe that God has forgiven you all your Sins at once?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>Yes, I believe he has forgiven all at once, paſt, preſent and to come; and now Chriſt will not leave me, tho' I fall I ſhall riſe again.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>You ſee what Ground you ſtand upon;</p>
+            </sp>
+            <sp>
+               <speaker>Shal.</speaker>
+               <p>I hope I ſtand upon the Rock; the true Rock, upon <hi>Peter</hi>'s Confeſſion of Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>As to your being choſen of God, and e<g ref="char:EOLhyphen"/>lected, what do you believe touching that?</p>
+            </sp>
+            <sp>
+               <speaker>Sha.]</speaker>
+               <p>Elected, had I not been Elected, I am aſſu<g ref="char:EOLhyphen"/>red God would never have wrought ſuch a Work
+<pb n="14" facs="tcp:34759:12"/>upon me; He has Elected me before the Foundation of the World was laid, and when I was young, my Heart was opened within me; when I heard my Pa<g ref="char:EOLhyphen"/>rents ſpeak any thing of the <hi>Meſſiah,</hi> tho' they would not tell me that he who was ſlain without the Walls of <hi>Jeruſalem</hi> was the <hi>Meſſiah;</hi> they talked of two <hi>Meſſiahs,</hi> one that ſhould come to be ſlain, the o<g ref="char:EOLhyphen"/>ther to deliver: It may be that both Jews and Gen<g ref="char:EOLhyphen"/>tiles will in a ſhort time be called in, the Lord will call them. And I wiſh that at this Day, God would turn the Hearts of all People, that they may all come to Jeſus Chriſt; Oh! the Joy, the Comfort, the Happineſs that is to be found there! <hi>There is Salva<g ref="char:EOLhyphen"/>tion in none other but in him; whether ſhall we go?</hi> (ſaith <hi>Peter.</hi>) <hi>Thou hast the Words of eternal Life.</hi> Indeed there is no other Way, we muſt have no Confidence in the Fleſh, we muſt deny all our Comforts, and come to Jeſus Chriſt, all muſt be laid down but Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>If you have (Brethren) any other Que<g ref="char:EOLhyphen"/>ſtion to propound, Mr. <hi>Shalome</hi> is very free to an<g ref="char:EOLhyphen"/>ſwer them.</p>
+            </sp>
+            <p>It was deſired by the Church, that ſomething might be asked him concerning his Conviction of Original Sin.</p>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>What do you think about the Pollution of your Nature?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>What do you mean by Pollution?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Do you find any Evil workings in your Heart?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>Yes, but Jeſus Chriſt takes them off.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Whence do you think you received this Corruption and Pollution?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>From the firſt <hi>Adam,</hi> for in Sin I was con<g ref="char:EOLhyphen"/>ceived, and born in Iniquity; and the Corruption of my Nature is ſuch, that it hath rendred me ut<g ref="char:EOLhyphen"/>terly
+<pb n="15" facs="tcp:34759:12"/>unable to keep the Law in its Demands, and therefore by the Law was I drove to Jeſus Chriſt, <hi>i. e.</hi> when I ſaw the Law to be ſo holy, juſt, and good, ſo Spiritual, and I ſo Carnal, that it required ſo much, and I was able to perform ſo little, and the Goſpel making a Diſcovery of one who had kept the Law and ſatisfied Juſtice to the full, I fled for Re<g ref="char:EOLhyphen"/>fuge from the Law as a Covenant of Works, to lay hold of the Hope that is ſet before me in the Goſpel, as a Covenant of Grace; this is what I intend by the Laws driving me to Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>What do you, when you find theſe evil Thoughts ſtirring in you?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>What? Why then I fly to Jeſus Chriſt, to that Blood which hath waſhed me from all my Sins, and roul my ſelf wholly on Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Think you, that you ſtand Righteous be<g ref="char:EOLhyphen"/>fore God?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>In Jeſus Chriſt I do, tho' not in my ſelf, for in my ſelf I am a condemned Creature; but yet I am fully ſatisfied that there is no Condem<g ref="char:EOLhyphen"/>nation to me being in Jeſus Chriſt; tho' I may ſlip and fall through the ſtirrings of the Old Man in me, which in themſelves are ſufficient Matter for Con<g ref="char:EOLhyphen"/>demnation, yet ſeeing my ſelf in Jeſus Chriſt, I know there is no Condemnation to me for theſe Facts.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>What think you of Jeſus Chriſt's keep<g ref="char:EOLhyphen"/>ing the Commandments?</p>
+            </sp>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p>He kept them perfectly for me, had he broke the Law in the leaſt Point, he had been no better than the firſt <hi>Adam</hi> was, and we had been utterly undone; Had he broke one Commandment, he had been guilty of all.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Wherefore deſire you Communion with this Church?</p>
+            </sp>
+            <pb n="16" facs="tcp:34759:13"/>
+            <sp>
+               <speaker>Shal.]</speaker>
+               <p n="1">1ſt, Becauſe Chriſt hath made it my Duty. And 2d, To Renew the Actings of my Faith on Jeſus Chriſt;</p>
+            </sp>
+            <stage>Mr. <hi>Shalome</hi> withdrew.</stage>
+            <sp>
+               <speaker>Mr. <hi>H.</hi>]</speaker>
+               <p>Brethren, you have heard the Account of God's Dealing with the Soul of Mr. <hi>Shalome.</hi> Let me acquaint you, that I have occaſionally had a con<g ref="char:EOLhyphen"/>ſiderable Acquaintance with him, perhaps as much as any one Man here; I muſt needs ſay, I think he hath given as uncontroulable a Proof of God's Dealing with his Soul by way of Converſion, as any one I have converſed with ſince I came into the Miniſtry; altho' his Language may be broken, and his Phraſe<g ref="char:EOLhyphen"/>ology unuſual, yet I have obſerved a true Strain of Faith run through his diſcourſe, and he hath given me ſufficient Reaſon to conclude that he is a ſtrong<g ref="char:EOLhyphen"/>er Believer than moſt of us Gentiles.</p>
+            </sp>
+            <p>According to the uſual Cuſtom obſerved by the Congregational Churches, in their Admiſſion of Members, the Queſtion was put affirmatively and negatively whether Mr. <hi>Shalome Ben Shalomoh</hi> ſhould be admitted a Member of this Church, and it paſſed <hi>Nemine Contradicente</hi> in the former.</p>
+            <div type="concluding_statement">
+               <p>After I came to the Lord's Supper I found much Joy and Comfort, as if I lived out of the World, nothing but Joy and Rejoycing: I ſee that Jeſus Chriſt, as he is God, is my Father; but as Man, he is my elder Brother; It hath pleaſed God to diſcover ſomething to me of the Glory of that Covenant that he made with <hi>Abraham,</hi> in <hi>Gen.</hi> 17. I am aſſured it is a Covenant of Grace Ratifyed and Confirmed in the Blood of Jeſus, and doth belong to me and my Seed in their Generations; ſo that I am perſwaded, and aſſured, that my Children have as juſt a Right to Baptiſm, as the Seed of <hi>Abraham</hi> of old had to Circumciſion, or as Believers have now to the Lord's
+<pb n="17" facs="tcp:34759:13"/>Supper, in as much as it is an external Sign of the Waſhing away of Sin by the Blood of Jeſus Chriſt: God hath made himſelf over to me in abſolute Co<g ref="char:EOLhyphen"/>venant made to <hi>Abraham,</hi> and to my Seed as a part of me; and when I take the Lord's Supper, in Faith, I ſee that as really as the Bread is broken, and the Wine poured forth, the Body of Chriſt was broken, and his Blood poured forth for the Remiſſion of my Sins; when I recollect my former State that when I lay in my Blood, and was led away Captive by Sin, when I thought not on Jeſus Chriſt, yea, before I was born Jeſus Chriſt thought of me, and laid down his Life for me, and made Satisfaction for my Sin; when, I ſay, I conſider theſe things, I am made to pray for the Spirit of Praiſe that I may glorifie God for ever, who by the Riches of his Grace hath brought me in, as the Firſt-fruits of that great harveſt of the Jews when a Nation ſhall be born in a Day; which I firm<g ref="char:EOLhyphen"/>ly believe is at hand.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PReface, Page 2. line 20, lege <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, put Art. 13. <hi>of Church of</hi> England, to the 21 line.</p>
+         </div>
+         <div type="table_of_fulfilled_prophecies">
+            <pb n="18" facs="tcp:34759:14"/>
+            <p>The following PROOFS out of the <hi>OLD</hi> and <hi>NEW TESTAMENT</hi> concerning the God<g ref="char:EOLhyphen"/>head, Manhood, Doctrine, Death and Reſurrection of the Meſſiah being tranſmitted to us, we thought good to publiſh it, which by the Divine Bleſſing may tend to the Conviction of the Jews, and to the Building up many in their most Holy Faith, who profeſs a Belief in the Name of Jeſus Christ.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 110.1.</hi>
+                     </cell>
+                     <cell>
+                        <hi>THe Lord ſaid to my Lord Sit thou at my right hand till I make thine Enemies thy foot-ſtool.</hi>
+                     </cell>
+                     <cell rows="2">
+                        <hi>The only begotten Son of God.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Mat. 22.43.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 22.36.</hi>
+                           </item>
+                           <item>
+                              <hi>Luke 20.42.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>The ſame Words as in the Old Teſtament.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 2.7.</hi>
+                     </cell>
+                     <cell>The Lord hath ſaid unto me, Thou art my Son, this day have I begotten thee.</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Acts 2.34.</hi>
+                           </item>
+                           <item>
+                              <hi>Acts 13.33.</hi>
+                           </item>
+                           <item>
+                              <hi>Heb. 1.5.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>To which of the Angels ſaid he at any time, thou art my Son, this day have I begotten thee? And again, I will be to him a Father and he ſhall be to me a Son.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Heb. 5.6.</hi>
+                           </item>
+                           <item>
+                              <hi>John 1.14.</hi>
+                           </item>
+                           <item>
+                              <hi>John 3.16.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>And the Word was made Fleſh, and dwelt among us, and we beheld his Glory, the Glory as of the only Begotten of the Father, full of Grace and Truth.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaiah 9.6.</hi>
+                     </cell>
+                     <cell>For unto us a Child is born, unto us a Son is given, and the government ſhall be upon his ſhoulder, and his Name ſhall be called Wonderful, Conſellour, the Mighty God, the Everlaſt<g ref="char:EOLhyphen"/>ſting Father, the Prince of Peace.</cell>
+                     <cell>
+                        <hi>The eternal and true God.</hi>
+                     </cell>
+                     <cell>
+                        <hi>John 10.36.</hi>
+                     </cell>
+                     <cell>I and the Father are one.</cell>
+                  </row>
+                  <pb n="19" facs="tcp:34759:14"/>
+                  <row>
+                     <cell>
+                        <hi>Micah 5.2.</hi>
+                     </cell>
+                     <cell>Out of thee ſhall come forth unto me to be Ruler in Iſrael, whoſe goings forth have been from of old, from everlaſting.</cell>
+                     <cell rows="2">
+                        <hi>Coeternal, and Coequal with the Father.</hi>
+                     </cell>
+                     <cell>
+                        <hi>1 John 1, 2, 3.</hi>
+                     </cell>
+                     <cell>The ſame was in the begin<g ref="char:EOLhyphen"/>ning with God; all things were made by him, and without him was not any thing made that was made.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Prov. 8.22.32.</hi>
+                     </cell>
+                     <cell>I was ſet up from everlaſting from the beginning or ever the Earth was.</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Col. 1.13.16.</hi>
+                           </item>
+                           <item>
+                              <hi>Heb. 1.3.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>By him were all things crea<g ref="char:EOLhyphen"/>ted in Heaven and in Earth, viſible, and inviſible.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 7.14.</hi>
+                     </cell>
+                     <cell>Behold, a Virgin ſhall con<g ref="char:EOLhyphen"/>ceive and bear a Son, and ſhall call his Name Immanual.</cell>
+                     <cell>
+                        <hi>That he ſhould take our humane Nature, and be born of a Virgin.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Mat. 1.23.</hi>
+                           </item>
+                           <item>
+                              <hi>John 1.14.</hi>
+                           </item>
+                           <item>
+                              <hi>1 Tim. 3.16.</hi>
+                           </item>
+                           <item>
+                              <hi>Luke 1.31.34.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>And the Word was made Fleſh. God was manifest in the Fleſh.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Gen. 22.18.</hi>
+                           </item>
+                           <item>
+                              <hi>Gen. 18.18.</hi>
+                           </item>
+                           <item>
+                              <hi>Gen. 12.3.</hi>
+                           </item>
+                           <item>
+                              <hi>Iſai. 11.1.</hi>
+                           </item>
+                           <item>
+                              <hi>Jer. 23.5.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>In thy Seed ſhall all the Na<g ref="char:EOLhyphen"/>tions of the Earth be bleſſed.</cell>
+                     <cell>
+                        <hi>That he ſhall be of the ſtock of Abraham, Iſaac, Jacob, Judah and David.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Rom. 1.3.</hi>
+                           </item>
+                           <item>
+                              <hi>Rev. 5.5.</hi>
+                           </item>
+                           <item>
+                              <hi>Mat. 1.16.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>Concerning his Son Jeſus Christ our Lord which was made of the Seed of David ac<g ref="char:EOLhyphen"/>cording to the fleſh.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoſea 11.1.</hi>
+                     </cell>
+                     <cell>Out of Aegypt have I called my Son.</cell>
+                     <cell>
+                        <hi>That he ſhould flee into Aegypt.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mat. 2.5.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Iſa. 40.3.</hi>
+                           </item>
+                           <item>
+                              <hi>Mat. 3.1.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>The Voice of him that crieth in the wilderneſs, Prepare ye the Way of the Lord, make ſtrait in the Deſert an high Way for our God.</cell>
+                     <cell>
+                        <hi>That one in the Spirit and Power of Elias ſhould prepare his Way.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Mat. 3.4.</hi>
+                           </item>
+                           <item>
+                              <hi>Luke 3.4.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 1.3.</hi>
+                           </item>
+                           <item>
+                              <hi>John 1.23.</hi>
+                           </item>
+                           <item>
+                              <hi>Mat. 17.10.12.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 9.11 12.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="20" facs="tcp:34759:15"/>
+                  <row>
+                     <cell>
+                        <hi>Pſal. 9.1, 2.</hi>
+                     </cell>
+                     <cell>The People that walked in Darkneſs have ſeen a great Light, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>
+                        <hi>That he ſhould begin to preach in Galilee.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mat: 4, 15, 16.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſal. 35.4, 5, 6.</hi>
+                     </cell>
+                     <cell>The Eyes of the Blind ſhall be opened, and the Ears of the Deaf ſhall be unſtopped.</cell>
+                     <cell>
+                        <hi>That he ſhould confirm his Doctrine by many Miracles.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>John 19.29.</hi>
+                           </item>
+                           <item>
+                              <hi>Matth. 27.48.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>The Blind receive their ſight, and the Lame walk, and the Lepers are cleanſed, and the Deaf hear, the Dead are raiſed up, the Poor have the Goſpel preached to them.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Zech. 9.9.</hi>
+                     </cell>
+                     <cell>Behold thy King cometh un<g ref="char:EOLhyphen"/>to thee, he is just, and having Salvation, lowly and riding on an Aſs, and on a Colt the Foal of an Aſs.</cell>
+                     <cell>
+                        <hi>That he ſhould enter Je<g ref="char:EOLhyphen"/>ruſalem triumphantly on an Aſs.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Matth. 21.5.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 11.2.</hi>
+                           </item>
+                           <item>
+                              <hi>John 12.15.12.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 41.9.</hi>
+                     </cell>
+                     <cell>Yea, mine own familiar Friend in whom I truſted, which did eat of my Bread hath lift up his Heel against me.</cell>
+                     <cell>
+                        <hi>That he ſhould be be<g ref="char:EOLhyphen"/>trayed by one of his Diſciples for thirty pieces of Silver.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Then one of the twelve, Ju<g ref="char:EOLhyphen"/>das Iſcariot, went unto the Chief Prieſts, and ſaid, What will ye give me, and I will be<g ref="char:EOLhyphen"/>tray him unto you? And they covenanted with him for thirty pieces of Silver.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Zech. 11.12.</hi>
+                     </cell>
+                     <cell>And the Lord ſaid to me, Cast it unto the Potter, a goodly price that I was prized at of them, and I took the <hi>30</hi> pieces of Sil<g ref="char:EOLhyphen"/>ver and caſt them unto the Pot<g ref="char:EOLhyphen"/>ter in the Houſe of the Lord.</cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Matth. 27.7.</hi>
+                     </cell>
+                     <cell>And they took Councel, and bought with them the Potters Field to bury Strangers in.</cell>
+                  </row>
+                  <pb n="21" facs="tcp:34759:15"/>
+                  <row>
+                     <cell>
+                        <hi>Zech. 12.7.</hi>
+                     </cell>
+                     <cell>Awake, O Sword, against my Shepherd, against the Man that is my Fellow, ſaith the Lord of Hoſts, ſmite the Shep<g ref="char:EOLhyphen"/>herd, and the Sheep ſhall be ſcattered.</cell>
+                     <cell>
+                        <hi>That the Apoſtles ſhould be ſcattered when he was taken.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Matth. 26.31.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 14.27.</hi>
+                           </item>
+                           <item>
+                              <hi>John 16.32.</hi>
+                           </item>
+                           <item>
+                              <hi>Matth. 26.56.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>Then ſaid Jeſus to them all Ye ſhall be offended becauſe of me this night, for it is writ<g ref="char:EOLhyphen"/>en, as <hi>Zeck. 13.7.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaiah 50.6.</hi>
+                     </cell>
+                     <cell>I gave my Back to the Smi<g ref="char:EOLhyphen"/>ters, and my Cheeks to them who plucked of the Hair, I hid not my Face from Shame and Spitting.</cell>
+                     <cell>
+                        <hi>That he ſhould be mock<g ref="char:EOLhyphen"/>ed and ſpit on.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Matth. 26.67.</hi>
+                           </item>
+                           <item>
+                              <hi>John 18.22.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>Then did they ſpit in his Face, and buffeted him.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaiah 52.12.</hi>
+                     </cell>
+                     <cell>And he was numbred with the Tranſgreſſors.</cell>
+                     <cell>
+                        <hi>That he ſhould ſuffer be<g ref="char:EOLhyphen"/>tween two Malefactors.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matth. 27.28.</hi>
+                     </cell>
+                     <cell>Then were two Thieves cruci<g ref="char:EOLhyphen"/>fied with him, one on the right Hand, the other on the left.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Iſaiah 53.4.</hi>
+                     </cell>
+                     <cell rows="2">Surely he hath born our Griefs, and carried our Sor<g ref="char:EOLhyphen"/>rows.</cell>
+                     <cell rows="2">
+                        <hi>That he ſhould ſuffer for our Sins.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Matth. 8 17.</hi>
+                     </cell>
+                     <cell>Himſelf took our Infirmities, and bear our Sickneſſes.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>1 Peter 2.24</hi>
+                     </cell>
+                     <cell>Who his own ſelf bare our Sins in his own Body on the Tree.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 22.1.</hi>
+                     </cell>
+                     <cell>My God, my God, why hast thou forſaken me, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>
+                        <hi>That he ſhould ſuffer ex<g ref="char:EOLhyphen"/>tream Agonies in his Soul.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Matth. 27.46.</hi>
+                           </item>
+                           <item>
+                              <hi>Mark 15.24.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="22" facs="tcp:34759:16"/>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Pſalm 22.16.</hi>
+                           </item>
+                           <item>
+                              <hi>Numb. 21.8, 9.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>The Wicked have encloſed me, they pierced my Hands and my Feet.</cell>
+                     <cell>
+                        <hi>That he ſhould die an accurſed Death, and be crucifyed, as he was tipifyed by the bra<g ref="char:EOLhyphen"/>zen Serpent.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>John 19.34.</hi>
+                           </item>
+                           <item>
+                              <hi>John 3.14.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>But one of the Soldiers with a Spear pierced his ſide.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 69.21.</hi>
+                     </cell>
+                     <cell>And they gave me alſo Galls for Meat, and in my Thirst, they gave me Vinegar to drink.</cell>
+                     <cell>
+                        <hi>That Vinegar and Gall ſhould be offered him to drink.</hi>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>John 19.23.</hi>
+                           </item>
+                           <item>
+                              <hi>Matth. 27.48.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>They filled a Spunge with Vinegar, and put it to his Mouth.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 22.18.</hi>
+                     </cell>
+                     <cell>They part my Garments a<g ref="char:EOLhyphen"/>mong them, and cast Lots up<g ref="char:EOLhyphen"/>on my Veſture.</cell>
+                     <cell>
+                        <hi>That Lots ſhould be cast for his Garments.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Luke 23.24.</hi>
+                     </cell>
+                     <cell>And they parted his Gar<g ref="char:EOLhyphen"/>ments, and cast Lots.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Exodus 12.46.</hi>
+                           </item>
+                           <item>
+                              <hi>Numb. 9.12.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>Neither ſhall ye break a Bone thereof.</cell>
+                     <cell>
+                        <hi>That not a Bone of him ſhould be broken, as was typifyed by the Paſchal Lamb.</hi>
+                     </cell>
+                     <cell>
+                        <hi>John 19.33, 36.</hi>
+                     </cell>
+                     <cell>When they came to Jeſus, and ſaw he was dead already, they break not his Legs.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Zech. 12.10.</hi>
+                     </cell>
+                     <cell>They ſhall look on me whom they have pierced.</cell>
+                     <cell>
+                        <hi>That he ſhould be pier<g ref="char:EOLhyphen"/>ced.</hi>
+                     </cell>
+                     <cell>
+                        <hi>John 19.34, 37.</hi>
+                     </cell>
+                     <cell>One of the Soldiers with a Spear pierced his Side.</cell>
+                  </row>
+                  <pb n="23" facs="tcp:34759:16"/>
+                  <row>
+                     <cell>
+                        <hi>Pſalm 16.10.</hi>
+                     </cell>
+                     <cell>Thou wilt not ſuffer thine holy One to ſee corruption.</cell>
+                     <cell>
+                        <hi>That he ſhould not ſee Corruption, but riſe the third Day.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Luke 24, from 13 to the end.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">
+                        <hi>Joel 2.28, 29.</hi>
+                     </cell>
+                     <cell rows="2">I will pour out my Spirit on all Fleſh.</cell>
+                     <cell rows="2"> </cell>
+                     <cell>
+                        <hi>John 16.7.</hi>
+                     </cell>
+                     <cell>But if I depart I will ſend him (<hi>i. e.</hi> the Comforter) to you.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Acts 2.3, 4.</hi>
+                     </cell>
+                     <cell>There appeared to them clo<g ref="char:EOLhyphen"/>ven Tongues, and they were all filled with the Holy Ghost.</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
